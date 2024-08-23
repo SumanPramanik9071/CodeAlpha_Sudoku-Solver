@@ -1,4 +1,4 @@
-// Sudoku-Solver-create-a-graphical-user-interface-GUI // ![Screenshot 2024-08-24 014855](https://github.com/user-attachments/assets/e12c5d17-d683-4986-96c5-e91c4fb9a066)
+// Sudoku-Solver-create-a-graphical-user-interface-GUI //
 
 #include <iostream>
 #include <iomanip>
@@ -260,3 +260,4 @@ int main()
   system("pause");
   return 0;
 }
+ ![Screenshot 2024-08-24 014855](https://github.com/user-attachments/assets/e12c5d17-d683-4986-96c5-e91c4fb9a066)
